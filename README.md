@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Bazil+Zaidan+Putra;Web+Developer+%7C+Data+Enthusiast;Creative+%26+Tech+Explorer;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Bazil+Zaidan+Putra;Web+Developer+%7C+Data+Enthusiast;Creative+%26+Tech+Explorer;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
 ---
@@ -8,7 +8,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bazilzputraa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bazilzputraa&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=bazilzputraa&theme=tokyonight&hide_border=true" width="49%" />
 </div>
 
 <div align="center">
