@@ -9,13 +9,13 @@
 <h2 align="center">⚡ GitHub Analytics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bazilzputraa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="49%" />
+  <img src="https://github-readme-stats-eight-ebon.vercel.app/api?username=bazilzputraa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="49%" />
   <img src="https://streak-stats.demolab.com/?user=bazilzputraa&theme=tokyonight&hide_border=true" width="49%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bazilzputraa&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="49%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=bazilzputraa&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" width="49%" />
+  <img src="https://github-readme-stats-eight-ebon.vercel.app/api/top-langs/?username=bazilzputraa&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="49%" />
+  <img src="https://github-profile-trophy-eight.vercel.app/?username=bazilzputraa&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" width="49%" />
 </div>
 
 ---
