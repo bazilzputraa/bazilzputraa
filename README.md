@@ -95,16 +95,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bazilzputraa&theme=tokyo-night&hide_border=true&custom_title=My%20Contribution%20Graph&bg_color=0d1117&line=6c63ff&point=ffffff&area=true&area_color=6c63ff" width="95%" />
 </div>
 
-<br/>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bazilzputraa/bazilzputraa/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bazilzputraa/bazilzputraa/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/bazilzputraa/bazilzputraa/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
 ---
 
 <h2 align="center">🌐 Connect with Me</h2>
