@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Bazil+Zaidan+Putra;Web+Developer+%7C+Data+Enthusiast;Creative+%26+Tech+Explorer;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Bazil+Zaidan+Putra;Web+Developer+%7C+Data+Enthusiast;Creative+%26+Tech+Explorer;Always+Learning+New+Things" alt="Typing SVG" />
+  <br/><br/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="80%" style="border-radius: 10px;" />
 </div>
 
 ---
