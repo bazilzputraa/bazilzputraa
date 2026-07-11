@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Bazil Zaidan Putra</h1>
-<h3 align="center"> Web Developer | Machine Learning | Data & Creative Enthusiast</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=6C63FF&width=550&lines=Hi+%F0%9F%91%8B%2C+I'm+Bazil+Zaidan+Putra;Web+Developer+%7C+ML+%7C+Data+Enthusiast;Creative+%26+Tech+Explorer" alt="Typing SVG" />
+</div>
 
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmVxMm8yZmh4YnRzZThiMGhvaHRybXh4cWJ0dW5tMnM3bmNqNTAydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="80%" style="border-radius: 10px;" />
@@ -7,52 +8,102 @@
 
 ---
 
-## 🚀 About Me
-- 🎓 Information Systems Graduate
+<h2 align="center">⭐ GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bazilzputraa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bazilzputraa&theme=tokyonight&hide_border=true" width="49%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bazilzputraa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bazilzputraa&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" width="49%" />
+</div>
+
+---
+
+<h2 align="center">🚀 About Me</h2>
+
+<table align="center">
+<tr>
+<td width="60%">
+
+- 🎓 **Information Systems Graduate**
 - 💻 Passionate in **Web Development, Data Analysis, Machine Learning, and Digital Creativity**
 - 📊 Experienced in **data processing & building insights for decision making**
 - 🛠️ Skilled in **CodeIgniter, MySQL, and Midtrans Integration**
 - 🎬 Also working as a **Content Creator (Video Editing, Storytelling, Branding)**
 - 🎯 Goal: Become a professional **Data Analyst / Software Engineer**
 
----
-
-## 🧰 Tech Stack
-<p align="center">
-
-  <!-- Programming -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-
-  <!-- Backend & Data -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-
-</p>
+</td>
+<td width="40%" align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius: 10px;" />
+</td>
+</tr>
+</table>
 
 ---
 
-## 🌐 Connect with Me
+<h2 align="center">🧰 Tech Stack</h2>
+
+<div align="center">
+
+### 💻 Programming & Markup
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+### 🗄️ Database & Backend
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
+
+### 🛠️ Tools & Platforms
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+
+</div>
+
+---
+
+<h2 align="center">📊 My Contribution Graph</h2>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bazilzputraa&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph&bg_color=0d1117&line=6c63ff&point=ffffff&area=true&area_color=6c63ff" width="95%" />
+</div>
+
+---
+
+<h2 align="center">🌐 Connect with Me</h2>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/bazilzputra/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:bazilzp26@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://instagram.com/bazilptr_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bazilzputraa&label=Profile%20Views&color=6c63ff&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-## ✨ Quote
-> "Turning data into insights and ideas into reality."
+<h2 align="center">✨ Quote</h2>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote" />
+</p>
+
+---
+
+<p align="center">
+  <i>Turning data into insights and ideas into reality.</i>
+</p>
