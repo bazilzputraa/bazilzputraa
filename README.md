@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24,30&height=200&section=header&text=Bazil%20Zaidan%20Putra&fontSize=40&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%E2%80%A2%20Data%20%26%20ML%20Enthusiast&descAlignY=60&descSize=16&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24,30&height=200&section=header&text=Bazil%20Zaidan%20Putra&fontSize=40&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%7C%20Data%20and%20ML%20Enthusiast&descAlignY=60&descSize=16&fontColor=ffffff" width="100%" />
 </p>
 
 <div align="center">
@@ -54,7 +54,8 @@ export const bazil: Developer = {
     "UI/UX Prototyping in Figma & Creative Video Production 🎥"
   ],
 
-  motto: "Transforming complex logic and raw data into seamless user experiences."
+  motto: "
+Al hayyatu ka al tsalji. Istamti' bihaa qobla an tadzuuba"
 };
 ```
 
@@ -89,6 +90,18 @@ export const bazil: Developer = {
 
 ---
 
+<h3 align="center">🐍 Contribution Snake</h3>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bazilzputraa/bazilzputraa/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bazilzputraa/bazilzputraa/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/bazilzputraa/bazilzputraa/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
+</div>
+
+---
+
 <h3 align="center">🌐 Connect & Execute</h3>
 
 ```bash
@@ -116,5 +129,5 @@ $ npx contact-bazil --email bazilzp26@gmail.com --location "Yogyakarta, ID"
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24,30&height=100&section=footer&text=Designed%20%26%20Engineered%20by%20Bazil%20Zaidan%20Putra&fontSize=16&fontAlignY=75&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24,30&height=100&section=footer&text=Designed%20and%20Engineered%20by%20Bazil%20Zaidan%20Putra&fontSize=16&fontAlignY=75&fontColor=ffffff" width="100%" />
 </p>
