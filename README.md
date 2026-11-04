@@ -54,8 +54,7 @@ export const bazil: Developer = {
     "UI/UX Prototyping in Figma & Creative Video Production 🎥"
   ],
 
-  motto: "
-Al hayyatu ka al tsalji. Istamti' bihaa qobla an tadzuuba"
+  motto: "Al hayyatu ka al tsalji. Istamti' bihaa qobla an tadzuuba"
 };
 ```
 
